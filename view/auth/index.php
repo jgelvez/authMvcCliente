@@ -51,10 +51,11 @@
     <div class="col-sm-4"></div>
     <div class="col-sm-4">
         <form method="post" action="?c=Auth&a=Autenticar" role="login">
-            <input type="text" name="usuario" placeholder="Usuario" required class="form-control input-lg" value="" autocomplete="off" />
-            <input type="password" name="password" class="form-control input-lg" id="password" placeholder="Password" required autocomplete="off" />
+            <input type="text" name="usuario" placeholder="julian" required class="form-control input-lg" value="" autocomplete="off" />
+            <input type="password" name="password" class="form-control input-lg" id="password" placeholder="123456" required autocomplete="off" />
             <hr />
             <button type="submit" name="go" class="btn btn-lg btn-primary btn-block">Ingresar</button>
         </form>
     </div>
 </div>
+<h5 class="text-center">Usuario: julian <br>Contraseña: 123456</h5>
